@@ -1,0 +1,104 @@
+body {
+	background-image: url(city.jpg);
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			background-color: #999;
+}
+
+.navbar-inverse {
+	background-color: #2A2A29;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}	
+
+
+span {
+	font-size: 20px
+}
+
+#photo {
+	margin-bottom: 50px;
+	margin-top: 100px;
+	border-radius: 50%;
+}
+
+.section1 {
+	background-color: #F5F5EE;
+	border: 2px solid #2A2A29;
+	margin-bottom: 75px;
+	padding: 50px 50px;
+}
+
+.firsth1 {
+	padding-bottom: 15px;
+}
+
+.section1par {
+	text-align: left;
+	border-left: 5px solid #B6B6AF;
+	padding-left: 25px;
+}
+
+
+.skills {
+	margin-top: 75px;
+	border-top: 1px solid #B6B6AF;
+	padding-top: 50px;
+	margin-bottom: 30px;
+}
+
+.skillspar {
+	margin-bottom: 50px;
+	border-left: 5px solid #B6B6AF;
+	padding-left: 5px;
+}
+
+.contactinfo {
+	border-top: 1px solid #B6B6AF;
+	padding-top: 50px;
+}
+
+.email {
+	margin-top: 20px;
+}
+
+
+.section2 {
+	background-color: #F5F5EE;
+	border: 2px solid #2A2A29;
+	padding: 50px 50px;
+}
+
+.recentprojects {
+	margin-bottom:30px;
+}
+
+.project1 {
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+.project2 {
+	margin-top: 40px;
+	border-top: 1px solid #B6B6AF;
+	padding-top: 20px;
+}
+
+.project3 {
+	margin-top: 40px;
+	border-top: 1px solid #B6B6AF;
+	padding-top: 20px;
+}
+
+
+
+
+
